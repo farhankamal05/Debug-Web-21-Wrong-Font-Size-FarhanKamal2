@@ -1,0 +1,13 @@
+/* ANSWERS - Full credit to code.org for task */
+  
+p {
+  color: black;
+  /* The font size was missing the - in the middle so I added it and now it's fixed */
+  font-size: 24px;
+}
+h1 {
+  font-weight: bold;
+}
+
+
+
